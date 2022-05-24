@@ -1,0 +1,16 @@
+.bg-tranprent{
+    background: url('../../images/top_bg.png');
+}
+
+.mainTopImage{
+    position: absolute;
+}
+
+.topImg{
+    position: relative;
+}
+
+.starImg{
+    position: relative;
+    bottom: 480px;
+}
